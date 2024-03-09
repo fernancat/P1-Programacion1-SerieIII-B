@@ -1,0 +1,7 @@
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\bin\Debug\Problema 2.exe.config
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\bin\Debug\Problema 2.exe
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\bin\Debug\Problema 2.pdb
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\obj\Debug\Problema 2.csproj.AssemblyReference.cache
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\obj\Debug\Problema 2.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\obj\Debug\Problema 2.exe
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema 2\obj\Debug\Problema 2.pdb

@@ -12,3 +12,4 @@ C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema1\obj\De
 C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema1\obj\Debug\net8.0\Problema1.pdb
 C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema1\obj\Debug\net8.0\Problema1.genruntimeconfig.cache
 C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema1\obj\Debug\net8.0\ref\Problema1.dll
+C:\Users\Fernan\Documents\P1-Programacion1-SerieIII-B\Problema1\Problema1\obj\Debug\net8.0\Problema1.sourcelink.json
